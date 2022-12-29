@@ -1,2 +1,2 @@
 # dsml_demo
- This is a git demo project for Scaler oct & aug cohort.
+ This is a Git and Github demo project for Scaler oct & aug cohort.
